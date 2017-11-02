@@ -10,6 +10,10 @@ test line 8
 test line 9
 changes
 change 2
+<<<<<<< HEAD
 changes 3
 changes 4
 changes 5
+=======
+changes 3
+>>>>>>> parent of 7bc810c... change 4
